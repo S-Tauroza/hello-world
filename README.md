@@ -1,6 +1,6 @@
 # hello-world
 Operation Phoenix
-I have a bad job. I want a good job. And a boat. This is my plan. Make it so!
+I have 1 bad job. I want 1 good job. And a boat. This is my plan. Make it so!
 -Operation Phoenix 
 
 Stage 2:
